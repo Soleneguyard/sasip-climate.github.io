@@ -8,6 +8,8 @@ heroBackground: '/images/ice-bandeau.png'
 
 # 2023
 
+- truc
+  
 - _Cheng, Quilodran-Casas, Ouala, Farchi, Liu, Tandeo, Fablet, Lucor, Iooss, Brajard, Xiao, Janjic, Ding, Guo, Carrassi, Bocquet, Arcucci_: [**_Machine learning with data assimilation and uncertainty quantification for dynamical systems: a review_**](https://arxiv.org/abs/2303.10462), _accepted for publication on the IEEE/CAA Journal of Automatica Sinica_
 
 - _Richter, Dansereau,  Lessig, Minakowski_: [**_The neXtSIM-DG dynamical core: A Framework for Higher-order
